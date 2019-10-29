@@ -2,3 +2,4 @@
 - 处理多分类中label的两种方法：
   - 通过one-hot编码编码label，并使用categorical_crossentropy作为损失函数；
   - 通过整数张量编码label，并使用sparse_categorical_crossentropy损失函数，对于数据分类的类别较多的情况，应该避免创建较小的中间layer，导致信息瓶颈。
+- 常见回归指标是平均绝对误差（MAE）,若可用数据较少，使用K折验证进行可靠评估。
