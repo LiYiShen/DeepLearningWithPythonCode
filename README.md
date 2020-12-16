@@ -1,28 +1,28 @@
 ## jupyter快捷键
 
-`Enter`切换为编辑模式
-`Esc`切换为命令模式
+- `Enter`切换为编辑模式
+- Esc`切换为命令模式
 ### 命令模式快捷键
-`H`：显示快捷键帮助
-`F`：查找和替换
-`P`：打开命令面板
-`Alt-Enter`：运行当前cell并在下方新建cell
-`Y`：把当前cell内容转换为代码形式
-`M`：把当前cell内容转换为markdown形式
-`1~6`：把当前cell内容设置为标题1~6格式
-`Shift`+上下键：按住Shift进行上下键操作可复选多个cell
-`A`：在上方新建cell
-`B`：在下方新建cell
-`X/C/Shift-V/V`：剪切/复制/上方粘贴/下方粘贴
-双击`D`：删除当前cell
-`Z`：撤销删除
-`S`：保存notebook
-`L`：为当前cell的代码添加行编号
-`Shift-L`：为所有cell的代码添加行编号
-`Shift-M`：合并所选cell或合并当前cell和下方的cell
-双击`I`：停止kernel
-双击`0`：重启kernel
-在一个库，方法或变量前加上 ?，你可以获得它的一个快速语法说明。
+- `H`：显示快捷键帮助
+- `F`：查找和替换
+- `P`：打开命令面板
+- `Alt-Enter`：运行当前cell并在下方新建cell
+- `Y`：把当前cell内容转换为代码形式
+- `M`：把当前cell内容转换为markdown形式
+- `1~6`：把当前cell内容设置为标题1~6格式
+- `Shift`+上下键：按住Shift进行上下键操作可复选多个cell
+- `A`：在上方新建cell
+- `B`：在下方新建cell
+- `X/C/Shift-V/V`：剪切/复制/上方粘贴/下方粘贴
+- 双击`D`：删除当前cell
+- `Z`：撤销删除
+- `S`：保存notebook
+- `L`：为当前cell的代码添加行编号
+- `Shift-L`：为所有cell的代码添加行编号
+- `Shift-M`：合并所选cell或合并当前cell和下方的cell
+- 双击`I`：停止kernel
+- 双击`0`：重启kernel
+- 在一个库，方法或变量前加上 ?，你可以获得它的一个快速语法说明。
 ### 编辑模式快捷键
 `Tab`：代码补全
 `Shift-Tab` : 提示
